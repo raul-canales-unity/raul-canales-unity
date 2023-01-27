@@ -26,6 +26,6 @@ I work full time as a Senior Software Engineer at [Unity Technologies](https://g
 
   </td>
   <td width="50%">
-	![raul-canales-unity's github stats](https://github-readme-stats.vercel.app/api?username=raul-canales-unity&show_icons=true&theme=dracula)
+	[![raul-canales-unity's github stats](https://github-readme-stats.vercel.app/api?username=raul-canales-unity&show_icons=true&theme=dracula)
   </td>
 </table>
