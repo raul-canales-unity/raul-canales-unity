@@ -17,5 +17,9 @@ I work full time as a Senior Software Engineer at [Unity Technologies](https://g
 - I love cooking (when I am not forced to do it...). Especially proud of my paella 🥘 and my sourdough bread 🍞.
 - You may find me climbing at [Copenhagen Boulders](https://www.boulders.dk/) from time to time 🧗.
 - I used to play salsa, bachata and lindy hop! 💃🕺
-
-[![Spotify](https://novatorem-raulcanales.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dank0ne)
+<br/><br/><br/><br/>
+<p align="center" style="margin-top: 20px;">
+  <a href="https://open.spotify.com/user/dank0ne">
+    <img src="https://novatorem-raulcanales.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify"/>
+  </a>
+</p>
