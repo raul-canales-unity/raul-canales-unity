@@ -18,15 +18,4 @@ I work full time as a Senior Software Engineer at [Unity Technologies](https://g
 - You may find me climbing at [Copenhagen Boulders](https://www.boulders.dk/) from time to time 🧗.
 - I used to play salsa, bachata and lindy hop! 💃🕺
 
-<table width="100%"> 
-  <tr>
-	  <td width="50%">
-
-	&nbsp; <br> [![Spotify](https://novatorem-raulcanales.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dank0ne)
-
-	  </td>
-	  <td width="50%">
-		[![raul-canales-unity's github stats](https://github-readme-stats.vercel.app/api?username=raul-canales-unity&show_icons=true&theme=dracula)
-	  </td>
-	</tr>
-</table>
+[![Spotify](https://novatorem-raulcanales.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/dank0ne)
