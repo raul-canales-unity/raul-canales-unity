@@ -13,7 +13,7 @@ I work full time as a Senior Software Engineer at [Unity Technologies](https://g
 - I love videogames! 🎮 You can even find me doing livestreaming (mostly in spanish) [here](https://www.twitch.tv/dank0ner).
 - I play bass 🎸 at [Silent Fracture](https://open.spotify.com/artist/0OpwhKR5LfYnuCOB217pLf) and before that I used to play in [Cain's Dinasty](https://open.spotify.com/artist/43RNRUJ0fL3Yl7W1Z0ONeR), where we even toured in Japan! 🤘.
 - I like [painting miniatures](https://instagram.com/dank0ne_minis) (orks in Warhammer)! 🎨.
-- Cats > Dogs (sorry dogs) 😺.
+- I have 2 naughty cats called Milo & Max 😺😺.
 - I love cooking (when I am not forced to do it...). Especially proud of my paella 🥘 and my sourdough bread 🍞.
 - You may find me climbing at [Copenhagen Boulders](https://www.boulders.dk/) from time to time 🧗.
 - I used to play salsa, bachata and lindy hop! 💃🕺
