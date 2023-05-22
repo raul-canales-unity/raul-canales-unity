@@ -10,7 +10,7 @@ I work full time as a Senior Software Engineer at [Unity Technologies](https://g
 ### Other things about me
 
 - I'm originally from [Alicante, Spain](https://www.google.com/maps/place/Alicante,+Spain/@38.3578732,-0.4900337,14z/data=!3m1!4b1!4m5!3m4!1s0xd6235da3b9dab4b:0x1d7da872ac0b81e3!8m2!3d38.3459963!4d-0.4906855), but moved to Denmark in September 2015!
-- I love videogames! 🎮 Currently playing [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/), [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/) and [Valheim](https://store.steampowered.com/app/892970/Valheim/), but have been playing World of Warcraft and pretty much any Blizzard's game for more than 15 years.
+- I love videogames! 🎮 You can even find me doing livestreaming (mostly in spanish) [here](https://www.twitch.tv/dank0ner).
 - I play bass 🎸 at [Silent Fracture](https://open.spotify.com/artist/0OpwhKR5LfYnuCOB217pLf) and before that I used to play in [Cain's Dinasty](https://open.spotify.com/artist/43RNRUJ0fL3Yl7W1Z0ONeR), where we even toured in Japan! 🤘.
 - I like [painting miniatures](https://instagram.com/dank0ne_minis) (orks in Warhammer)! 🎨.
 - Cats > Dogs (sorry dogs) 😺.
